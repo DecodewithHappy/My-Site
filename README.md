@@ -14,3 +14,5 @@ This site contains information about myself, skills that I know and my hobbies.I
 2.CSS3
 
 ## Screenshots
+
+<img src="Images/SS-main.png">
